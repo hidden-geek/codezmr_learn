@@ -1,3 +1,6 @@
+# Testing README.md for publis
+
+Hey! Welcome to my first public code.
 This is my first github public post.
 here i learn git and github like
 how to use github
